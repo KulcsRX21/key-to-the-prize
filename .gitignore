@@ -1,8 +1,5 @@
-HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
-!**/src/main/**/target/
-!**/src/test/**/target/
 
 ### STS ###
 .apt_generated
@@ -27,9 +24,8 @@ target/
 /.nb-gradle/
 build/
 
-### VS Code ###
-.vscode/
-
-### dependencies ###
+# dependencies
 node_modules
-/.angular/cache/
+
+# misc
+/.angular/cache
