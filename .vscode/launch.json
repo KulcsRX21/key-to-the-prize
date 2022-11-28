@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-KeytotheprizeApplication<keytotheprize>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.kulcsrx.keytotheprize.KeytotheprizeApplication",
+            "projectName": "keytotheprize",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
